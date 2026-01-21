@@ -31,6 +31,6 @@ terraform apply
 ```
 
 ##  Architecture Diagram
-![ChatGPT Image May 19, 2025, 10_45_50 AM](https://github.com/user-attachments/assets/c1b22ff6-c556-4d89-9561-8f8c01f2d275)
+![Image](https://github.com/user-attachments/assets/c1b22ff6-c556-4d89-9561-8f8c01f2d275)
 
 ---
